@@ -59,14 +59,3 @@ Achieved high accuracy (~95-97%) on test data.
 
 A plot showing how the logistic regression model separates the three classes:
 ![Decision Boundary](decision_boundary.png)
-
-
-## 🔢 Confusion Matrix
-
-An example confusion matrix for model predictions:
-   ```bash
-   [[18  0  0]
-    [ 0 15  2]
-    [ 0  1 14]]
-```
-This shows that the model correctly classified most of the samples with only a few misclassifications.
