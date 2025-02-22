@@ -35,17 +35,17 @@ This repository contains a Jupyter Notebook that demonstrates **Logistic Regress
 
 ## Dataset
 
-The Iris dataset is included in Scikit-Learn and consists of 150 samples from three species of iris flowers:
-🌿 Setosa
-🌿 Versicolor
-🌿 Virginica
+The Iris dataset is included in Scikit-Learn and consists of 150 samples from three species of iris flowers:  
+🌿 Setosa  
+🌿 Versicolor  
+🌿 Virginica  
 
 Each sample has four features:
 
-Sepal length- 
-Sepal width- 
-Petal length- 
-Petal width- 
+🌱 Sepal length  
+🌱 Sepal width  
+🌱 Petal length  
+🌱 Petal width  
 
 ## Model Insights
 
