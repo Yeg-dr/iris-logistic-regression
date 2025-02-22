@@ -23,10 +23,9 @@ This repository contains a Jupyter Notebook that demonstrates **Logistic Regress
    jupyter notebook Iris_LogisticRegression.ipynb
 
 
-
 ## Dependencies
 
-✅ Python 3.x /n
+✅ Python 3.x 
 ✅ Jupyter Notebook
 ✅ Scikit-Learn
 ✅ Pandas
@@ -42,10 +41,10 @@ The Iris dataset is included in Scikit-Learn and consists of 150 samples from th
 
 Each sample has four features:
 
-Sepal length
-Sepal width
-Petal length
-Petal width
+Sepal length- 
+Sepal width- 
+Petal length- 
+Petal width- 
 
 ## Model Insights
 
@@ -68,5 +67,5 @@ An example confusion matrix for model predictions:
    [[18  0  0]
     [ 0 15  2]
     [ 0  1 14]]
+```
 This shows that the model correctly classified most of the samples with only a few misclassifications.
-
