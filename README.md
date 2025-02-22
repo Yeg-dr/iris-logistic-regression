@@ -1,7 +1,6 @@
 # Iris Logistic Regression  
 
 This repository contains a Jupyter Notebook that demonstrates **Logistic Regression** on the well-known **Iris dataset**. The project includes data preprocessing, model training, performance evaluation, and visualization of classification results.  
-This project is built using **Python** and **Jupyter Notebook**.
 
 ## Features  
 
