@@ -25,17 +25,12 @@ This repository contains a Jupyter Notebook that demonstrates **Logistic Regress
 
 ## Dependencies
 
-✅ Python 3.x 
-
-✅ Jupyter Notebook
-
-✅ Scikit-Learn
-
-✅ Pandas
-
-✅ Matplotlib
-
-✅ NumPy
+✅ Python 3.x   
+✅ Jupyter Notebook  
+✅ Scikit-Learn  
+✅ Pandas  
+✅ Matplotlib  
+✅ NumPy  
 
 
 ## Dataset
