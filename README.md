@@ -26,7 +26,7 @@ This repository contains a Jupyter Notebook that demonstrates **Logistic Regress
 
 ## Dependencies
 
-✅ Python 3.x
+✅ Python 3.x /n
 ✅ Jupyter Notebook
 ✅ Scikit-Learn
 ✅ Pandas
@@ -68,5 +68,5 @@ An example confusion matrix for model predictions:
    [[18  0  0]
     [ 0 15  2]
     [ 0  1 14]]
-   This shows that the model correctly classified most of the samples with only a few misclassifications.
+This shows that the model correctly classified most of the samples with only a few misclassifications.
 
